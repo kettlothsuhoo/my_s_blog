@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "http://kaunghtet466.github.io/my_s_blog/"
 title = "gohugo.io"
 author = "Steve Francia"
 copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
